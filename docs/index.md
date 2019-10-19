@@ -1,5 +1,6 @@
 # Link Dump for source (ignore)
 https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438
+keyboard - http://soundbible.com/1705-Click2.html
 
 # Project 2 Summary
 Blah Blah
@@ -14,11 +15,18 @@ Go to [the website above](https://github.com/Jtrinh3/Project-2---The-Office/) an
 
 ## How to use
 **Loading & running the project:**
-1. Clone from git or unzip the project to an empty folder.
-2. Start up Unity Hub and add the project folder from the previous step to it.
-3. Set the version to 2019.2.8f1
-4. Launch the project
-5. Run the project with the play button.
+1. Clone from git to an empty folder.  
+  1a. git clone https://github.com/oalkha2/Project-2---Office-Cubicle
+2. Clone VRTK in a seperate folder using the following commands  
+  2a. git clone --recurse-submodules https://github.com/ExtendRealityLtd/VRTK.git  
+  2b. cd VRTK/  
+  2c. git checkout 29d098ce511e9c18a189327b74029b193d6011a9  
+  2d. git submodule init && git submodule update  
+3. Move VRTK folder into Assets folder of main project
+4. Start up Unity Hub and add the project folder from the previous step to it.
+5. Set the version to 2019.2.8f1
+6. Launch the project
+7. Run the project with the play button.
 
 **What you can do in the project**
 **TODO**
