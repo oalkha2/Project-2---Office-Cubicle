@@ -33,5 +33,9 @@ public class VRTK_Input_Handlers : MonoBehaviour
             boombox_playing = false;
         }
     }
+    public void jump()
+    {
+        GetComponent<Rigidbody>().velocity += new Vector3(500, 20, 50);
+    }
 
 }
