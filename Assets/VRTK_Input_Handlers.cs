@@ -35,7 +35,7 @@ public class VRTK_Input_Handlers : MonoBehaviour
     }
     public void jump()
     {
-        GetComponent<Rigidbody>().velocity += new Vector3(500, 20, 50);
+        GetComponent<Rigidbody>().velocity = Vector3.up * 5;
     }
 
 }
