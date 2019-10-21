@@ -6,10 +6,7 @@ This project was created by Omar Al-Khatib and James Trinh for CS 428 (Augmented
 <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/Main%20Picture.jpg" width="600">
 
 ## Git Page
-https://github.com/Jtrinh3/Project-2---The-Office
-
-### Download Instructions:
-Go to [the website above](https://github.com/Jtrinh3/Project-2---The-Office/) and within the green dropdown box with the word "Clone or download", press the "Download ZIP" and you will have the entire project file downloaded in zip format to be extracted and used in Unity 2019.2.
+https://github.com/oalkha2/Project-2---Office-Cubicle
 
 ## How to use
 **Loading & running the project:**
