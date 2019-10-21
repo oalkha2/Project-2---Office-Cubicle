@@ -3,7 +3,7 @@
 # Project 2 Summary
 Blah Blah
 
-<img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/Main%20Picture.jpg" width="300">
+<img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/Main%20Picture.jpg" width="600">
 
 ## Git Page
 https://github.com/Jtrinh3/Project-2---The-Office
