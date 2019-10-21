@@ -36,12 +36,12 @@ Go to [the website above](https://github.com/Jtrinh3/Project-2---The-Office/) an
   * Upon touching the red rectangle, The player will be shrunk to a smaller scale.
   * Upon touching the upper blue rectangle, the player will become englarged. This can be reversed by touching the red rectangle floating on the perimeter of the play area.
   * Upon touching the lower blue rectangle, the player will be reverted back to normal size.
-* Within the cubible with the disco light (James'):
+* Within the cubible with the disco light:
   * The disco light can be toggled by touching the white button on the yellow wall.
   * Touching the red sculpture, the briefcase, or the keyboard will emit a noise.
   * Upon touching the white blob under the left table, it will jump up.
   * The boombox can cycle through 3 music and an off state by gently touching the red button.
-* The cubicle with Kirby (pink plush) on the top (Omar's):
+* The cubicle with Kirby (pink plush) on the top:
   **TODO**
 
 ## Source Materials
