@@ -1,7 +1,7 @@
 
 
 # Project 2 Summary
-Blah Blah
+This project was created by Omar Al-Khatib and James Trinh for CS 428 (Augmented and Virtual Reality) at the University of Illinois in Chicago. This started as a blank office with VRTK incorporated in it, and then each group member were to pick a cubicle and decorate them.
 
 <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/Main%20Picture.jpg" width="600">
 
