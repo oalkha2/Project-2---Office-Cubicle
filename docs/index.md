@@ -25,10 +25,24 @@ Go to [the website above](https://github.com/Jtrinh3/Project-2---The-Office/) an
 4. Start up Unity Hub and add the project folder from the previous step to it.
 5. Set the version to 2019.2.8f1
 6. Launch the project
-7. Run the project with the play button.
+7. Decide whether you have your own VR or use a simulated one.
+  a. **Simulated rig**: Skip to step 8
+  b. **VR Device**: On the lefthand Hierarchy chart, click on *UnityXRCameraRig* and toggle the checkbox on the righthand side towards to top left of the textbox with *UnityXRCameraRig* in it.
+8. Run the project with the play button.
 
 **What you can do in the project**
-**TODO**
+* Most objects are grabbable to be picked up.
+* Near the starting area, are Red and Blue rectangles.
+  * Upon touching the red rectangle, The player will be shrunk to a smaller scale.
+  * Upon touching the upper blue rectangle, the player will become englarged. This can be reversed by touching the red rectangle floating on the perimeter of the play area.
+  * Upon touching the lower blue rectangle, the player will be reverted back to normal size.
+* Within the cubible with the disco light (James'):
+  * The disco light can be toggled by touching the white button on the yellow wall.
+  * Touching the red sculpture, the briefcase, or the keyboard will emit a noise.
+  * Upon touching the white blob under the left table, it will jump up.
+  * The boombox can cycle through 3 music and an off state by gently touching the red button.
+* The cubicle with Kirby (pink plush) on the top (Omar's):
+  **TODO**
 
 ## Source Materials
 Below is a table of all the sources we use for codes, models, and audios.
