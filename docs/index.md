@@ -1,10 +1,9 @@
-# Link Dump for source (ignore)
-https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438  
+
 
 # Project 2 Summary
 Blah Blah
 
-<img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="300">
+<img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/Main%20Picture.jpg" width="300">
 
 ## Git Page
 https://github.com/Jtrinh3/Project-2---The-Office
