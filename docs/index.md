@@ -148,8 +148,8 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 45.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
-| 46.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 45.      | Piggy Bank - [3D Warehouse](https://3dwarehouse.sketchup.com/model/c3281ec2d23523e1c40386bdd72f9a0/Piggy-Bank) |
+| 46.      | Box - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8ae844c2d0ddbf3452366c3503f802d0/box-a) |
 | 47.      | Solid Snake - [3D Warehouse](https://3dwarehouse.sketchup.com/model/df05df84e071c379f16675b77b860cd6/Solid-Snake) |
 
 <p float="center">
@@ -158,7 +158,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 48.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 48.      | Death Star - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8f9066c4d0b98407ca292cf40513efe4/Death-Star) |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%205.jpg" width="80%">
@@ -194,8 +194,6 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 22.     | Sword - Made by Omar A. |
 | 23.     | Shield - Made by Omar A. |
 
-| 25.     | keyboard -  |
-| 26.     | Laptop - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
 | 30.     | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
 | 31.     | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
