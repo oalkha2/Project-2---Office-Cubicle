@@ -55,11 +55,93 @@ Below is a table of all the sources we use for codes, models, and audios.
 | Velocity for jumping object     | [Unity Documentation](https://docs.unity3d.com/ScriptReference/Rigidbody-velocity.html) |
 
 ### Model List
-<p float="left">
-  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="500">
-  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="250">
-  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="100">
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%201.jpg" width="80%">
 </p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%202.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%203.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 10.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 19.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 15.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 26.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 42.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 45.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 48.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 51.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+</p>
+
+| Number  | Description & Link |
+| ------- | ----------------------------------------------------- |
+| 52.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
