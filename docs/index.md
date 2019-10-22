@@ -61,7 +61,15 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 1.      | Boombox - Made by James T. | |
+| 2.      | Steam Controller - [Steam VR](https://store.steampowered.com/app/250820/SteamVR/) |
+| 3.      | Pen - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 4.      | Phone - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 5.      | Monitor - Made by James |
+| 6.      | Keyboard - [TurboSquid.com](https://www.turbosquid.com/3d-models/3d-keyboard-1383482) |
+| 7.      | Laptop - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 8.      | Briefcase - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 9.      | Red Sculpture - made by James T.|
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%202.jpg" width="80%">
@@ -139,7 +147,6 @@ Below is a table of all the sources we use for codes, models, and audios.
 | ------- | ----------------------------------------------------- |
 | 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 | 2.      | Metal Beam - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
-| 3.      | Boombox - Made by James T. |
 | 4.      | Le Grande Red Moustachio Sculpture - Made by James Trinh |
 | 5.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
 | 6.      | One Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
@@ -163,8 +170,6 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 24.     | Jojo Arrows - [SketchFab](https://sketchfab.com/3d-models/stand-arrow-jojos-bizarre-adventure-b53212fb380d40678dd15475f9dd57f7  )|
 | 25.     | keyboard -  |
 | 26.     | Laptop - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
-| 27.     | Pen - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
-| 28.     | Phone - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
 | 30.     | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
 | 31.     | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
