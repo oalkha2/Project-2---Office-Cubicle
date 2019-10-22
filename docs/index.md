@@ -106,16 +106,22 @@ Below is a table of all the sources we use for codes, models, and audios.
 | --------| ---------------------------------- | ------------------ |
 | 1.      | AC ambient loop.mp3 | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
 | 2.      | Click2-Sebastian-759472264.mp3 | Keyboard Clack & Light Switch - [soundbible.com](http://soundbible.com/1705-Click2.html) |
-| 3.      | barradeen-you-are-not-alone - trimmed.mp3 | 
+| 3.      | barradeen-you-are-not-alone - trimmed.mp3 | [free-stock-music.com](https://www.free-stock-music.com/barradeen-you-are-not-alone.html)
 | 4.      | cha_ching.mp3 | Piggybank sound - [Zedge](https://www.zedge.net/ringtone/a73e4b29-5a5f-3d3f-8050-3450b3e5d9b7) | 
 | 5.      | kirby hiiii.mp3 | kirby sound - [Youtube](https://www.youtube.com/watch?v=zHfoGyaDuZE) |
 | 6.      | Metal Gear Solid Alert.mp3 | ! - [Youtube](https://www.youtube.com/watch?v=2P5qbcRAXVkYoutube) | 
 | 7.      | mouse_sms_chichi.mp3 | Mouse appear sound - [Zedge](https://www.zedge.net/ringtone/ca48529e-88a2-3376-8609-00b67bfd0020) |
 | 8.      | phone sound.mp3 |  phone touch sound - My tablet |
 | 9.      | RAINBOW SIX SIEGE - Menu SoundTrack.mp3 | TV sound - [Youtube](https://www.youtube.com/watch?v=TWBseNLqmec) | 
-| 10.      | sword_slash.mp3 | Sword grab sound - [Zedge](https://www.zedge.net/ringtone/ab22fe02-3826-345a-80ad-dc22261a9127) | 
-| 11.      | this_is_snake.mp3 | Snake touch sound - [Zedge](https://www.zedge.net/ringtone/800bff58-5190-3fd5-9acc-0d795d54eb0d) | 
-| 12.      | John Cena | Potato Salad |
+| 10.     | sword_slash.mp3 | Sword grab sound - [Zedge](https://www.zedge.net/ringtone/ab22fe02-3826-345a-80ad-dc22261a9127) | 
+| 11.     | this_is_snake.mp3 | Snake touch sound - [Zedge](https://www.zedge.net/ringtone/800bff58-5190-3fd5-9acc-0d795d54eb0d) | 
+| 12.     | Briefcase_idle 1.mp3 | made by James T. |
+| 13.     | Briefcase_Pickup.mp3 | made by James T. |
+| 14.     | Briefcase_Thanks.mp3 | made by James T. |
+| 15.     | Jojo_s_Bizarre_Adventure_OST_-_Awaken_Pillar_Men_Theme_.mp3 | [Arrows Local Sound](https://www.youtube.com/watch?v=XUhVCoTsBaM)
+| 16.     | modern-jazz-samba-by-kevin-macleod.mp3 | [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100153) |
+| 17.     | Who Likes to Party.mp3 | [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=usuan1200075) |
+| 18.     | Sculpture Sound.mp3 | made by James T. |
 
 ## How effective this method is:
 **TODO 500 words**
