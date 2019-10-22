@@ -114,7 +114,23 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 26.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 26.      | Cage - Made by Omar A. |
+| 27.      | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
+| 28.      | Drawers - Made by Omar A. |
+| 39.      | TV - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468) |
+| 30.      | White Chair - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/furniture/chair-fp-01-26466) |
+| 31.      | Sword - Made by Omar A. |
+| 32.      | Shield - Made by Omar A. |
+| 34.      | One Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 35.      | Two Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 36.      | Three Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 36.      | Grandpa - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 37.     | Four Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 38.     | Five Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 39.     | Six Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 40.     | Seven Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 41.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
+
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%202.jpg" width="80%">
@@ -162,14 +178,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 2.      | Metal Beam - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 | 4.      | Le Grande Red Moustachio Sculpture - Made by James Trinh |
 | 5.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
-| 6.      | One Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 7.      | Two Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 8.      | Three Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 9.      | Grandpa - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 10.     | Four Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 11.     | Five Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 12.     | Six Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
-| 13.     | Seven Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+
 | 14.     | Box - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8ae844c2d0ddbf3452366c3503f802d0/box-a) |
 | 15.     | Solid Snake - [3D Warehouse](https://3dwarehouse.sketchup.com/model/df05df84e071c379f16675b77b860cd6/Solid-Snake) |
 | 16.     | Death Star - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8f9066c4d0b98407ca292cf40513efe4/Death-Star) |
