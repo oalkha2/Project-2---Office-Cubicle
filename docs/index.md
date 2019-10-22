@@ -77,7 +77,15 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 10.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 10.      | Basketballhoop - made by James T. |
+| 11.      | Umbrella - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 12.      | Sculpted Ghost - made by James T. |
+| 13.      | Portal Dice - [TurboSquid.com](https://www.turbosquid.com/3d-models/free-portal-2-cube-dice-3d-model/1116423) |
+| 14.      | Jojo Arrows - [SketchFab](https://sketchfab.com/3d-models/stand-arrow-jojos-bizarre-adventure-b53212fb380d40678dd15475f9dd57f7  )|
+| 15.      | Miniature Soldier - [Thingiverse](https://www.thingiverse.com/thing:1244599) |
+| 16.      | Miniature Table - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 17.      | d20 Dice - [SketchFab]https://sketchfab.com/3d-models/d20-dice-full-3d-free-2587a1630a3a4c0993032675a25d72b9) |
+| 18.      | Miniature Dwarf - [Thingiverse](https://www.thingiverse.com/thing:1244599) |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%203.jpg" width="80%">
@@ -167,7 +175,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 21.     | Pencil - Made by Omar A. |
 | 22.     | Sword - Made by Omar A. |
 | 23.     | Shield - Made by Omar A. |
-| 24.     | Jojo Arrows - [SketchFab](https://sketchfab.com/3d-models/stand-arrow-jojos-bizarre-adventure-b53212fb380d40678dd15475f9dd57f7  )|
+
 | 25.     | keyboard -  |
 | 26.     | Laptop - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
