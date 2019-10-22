@@ -8,6 +8,9 @@ This project was created by Omar Al-Khatib and James Trinh for CS 428 (Augmented
 ## Git Page
 https://github.com/oalkha2/Project-2---Office-Cubicle
 
+## Video Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Lofo5TFO-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## How to use
 **Loading & running the project:**
 1. Clone from git to an empty folder.  
