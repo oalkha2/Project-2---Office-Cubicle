@@ -38,7 +38,11 @@ https://github.com/oalkha2/Project-2---Office-Cubicle
   * Upon touching the white blob under the left table, it will jump up.
   * The boombox can cycle through 3 music and an off state by gently touching the red button.
 * The cubicle with Kirby (pink plush) on the top:
-  **TODO**
+  * Grabbing the box will emit a sound and moving it will reveal a hidden model under it
+  * Touching the TV will turn it on
+  * Grabbing the sword or piggy bank will play a sound
+  * Touching kirby, the tablet or Snake will cause a sound to play
+  * Grabbing the floor cheese will make a mouse appear *(spooky!)*
 
 ## Source Materials
 Below is a table of all the sources we use for codes, models, and audios.
@@ -87,7 +91,14 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 26.     | Laptop - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 27.     | Pen - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 28.     | Phone - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
-| 29.     | 
+| 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
+| 30.     | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
+| 31.     | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
+| 32.     | Origami Crane - [3D Warehouse](https://3dwarehouse.sketchup.com/model/1f0ae3c915999f5fe09b64fbc3223102/Origami-crane) |
+| 33.     | Rat - [3D Warehouse](https://3dwarehouse.sketchup.com/model/u1c56b8a7-e927-419f-83b2-7b10d5b27b00/Rat) |
+| 34.     | Cheese - [3D Warehouse](https://3dwarehouse.sketchup.com/model/36a790c205b5affe591a9a5b6104ce0f/Cheese) |
+| 34.     | TV - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468) |
+| 34.     | White Chair - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/furniture/chair-fp-01-26466) |
 
 ### Audio Used
 
@@ -96,7 +107,15 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 1.      | AC ambient loop.mp3 | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
 | 2.      | Click2-Sebastian-759472264.mp3 | Keyboard Clack & Light Switch - [soundbible.com](http://soundbible.com/1705-Click2.html) |
 | 3.      | barradeen-you-are-not-alone - trimmed.mp3 | 
-| 2.      | Nothing | John Cena | Potato Salad |
+| 4.      | cha_ching.mp3 | Piggybank sound - [Zedge](https://www.zedge.net/ringtone/a73e4b29-5a5f-3d3f-8050-3450b3e5d9b7) | 
+| 5.      | kirby hiiii.mp3 | kirby sound - [Youtube](https://www.youtube.com/watch?v=zHfoGyaDuZE) |
+| 6.      | Metal Gear Solid Alert.mp3 | ! - [Youtube](https://www.youtube.com/watch?v=2P5qbcRAXVkYoutube) | 
+| 7.      | mouse_sms_chichi.mp3 | Mouse appear sound - [Zedge](https://www.zedge.net/ringtone/ca48529e-88a2-3376-8609-00b67bfd0020) |
+| 8.      | phone sound.mp3 |  phone touch sound - My tablet |
+| 9.      | RAINBOW SIX SIEGE - Menu SoundTrack.mp3 | TV sound - [Youtube](https://www.youtube.com/watch?v=TWBseNLqmec) | 
+| 10.      | sword_slash.mp3 | Sword grab sound - [Zedge](https://www.zedge.net/ringtone/ab22fe02-3826-345a-80ad-dc22261a9127) | 
+| 11.      | this_is_snake.mp3 | Snake touch sound - [Zedge](https://www.zedge.net/ringtone/800bff58-5190-3fd5-9acc-0d795d54eb0d) | 
+| 12.      | John Cena | Potato Salad |
 
 ## How effective this method is:
 **TODO 500 words**
