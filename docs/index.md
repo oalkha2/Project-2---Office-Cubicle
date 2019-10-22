@@ -138,7 +138,9 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 42.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 42.      | Origami Crane - [3D Warehouse](https://3dwarehouse.sketchup.com/model/1f0ae3c915999f5fe09b64fbc3223102/Origami-crane) |
+| 43.      | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
+| 44.      | Rat - [3D Warehouse](https://3dwarehouse.sketchup.com/model/u1c56b8a7-e927-419f-83b2-7b10d5b27b00/Rat) |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%203.jpg" width="80%">
@@ -147,6 +149,8 @@ Below is a table of all the sources we use for codes, models, and audios.
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
 | 45.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 46.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 47.      | Solid Snake - [3D Warehouse](https://3dwarehouse.sketchup.com/model/df05df84e071c379f16675b77b860cd6/Solid-Snake) |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%204.jpg" width="80%">
@@ -180,7 +184,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 5.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
 
 | 14.     | Box - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8ae844c2d0ddbf3452366c3503f802d0/box-a) |
-| 15.     | Solid Snake - [3D Warehouse](https://3dwarehouse.sketchup.com/model/df05df84e071c379f16675b77b860cd6/Solid-Snake) |
+| 15.     |
 | 16.     | Death Star - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8f9066c4d0b98407ca292cf40513efe4/Death-Star) |
 | 17.     | Piggy Bank - [3D Warehouse](https://3dwarehouse.sketchup.com/model/c3281ec2d23523e1c40386bdd72f9a0/Piggy-Bank) |
 | 18.     | Desk - Made by Omar A. |
@@ -195,7 +199,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
 | 30.     | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
 | 31.     | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
-| 32.     | Origami Crane - [3D Warehouse](https://3dwarehouse.sketchup.com/model/1f0ae3c915999f5fe09b64fbc3223102/Origami-crane) |
+
 | 33.     | Rat - [3D Warehouse](https://3dwarehouse.sketchup.com/model/u1c56b8a7-e927-419f-83b2-7b10d5b27b00/Rat) |
 | 34.     | Cheese - [3D Warehouse](https://3dwarehouse.sketchup.com/model/36a790c205b5affe591a9a5b6104ce0f/Cheese) |
 | 34.     | TV - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468) |
