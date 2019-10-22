@@ -9,7 +9,7 @@ This project was created by Omar Al-Khatib and James Trinh for CS 428 (Augmented
 https://github.com/oalkha2/Project-2---Office-Cubicle
 
 ## Video Demo
-[Youtube Link](https://www.youtube.com/embed/9Lofo5TFO-0)
+[Youtube Link](https://www.youtube.com/watch?v=9Lofo5TFO-0)
 
 ## How to use
 **Loading & running the project:**
