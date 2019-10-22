@@ -166,7 +166,9 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 51.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 49.      | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
+| 50.      | Pencil - Made by Omar A. |
+| 51.      | Paperclip - Made by Omar A. |
 
 <p float="center">
   <img src="https://github.com/oalkha2/Project-2---Office-Cubicle/blob/master/docs/Outside.jpg" width="80%">
@@ -176,32 +178,6 @@ Below is a table of all the sources we use for codes, models, and audios.
 | ------- | ----------------------------------------------------- |
 | 52.      | Giraffe - [SketchFab.com](https://sketchfab.com/3d-models/low-poly-giraffe-9043192c58994a9380d38b665790f8f5) |
 
-| Number  | Description & Link |
-| ------- | ----------------------------------------------------- |
-| 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
-| 2.      | Metal Beam - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
-| 4.      | Le Grande Red Moustachio Sculpture - Made by James Trinh |
-| 5.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
-
-| 14.     | Box - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8ae844c2d0ddbf3452366c3503f802d0/box-a) |
-| 15.     |
-| 16.     | Death Star - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8f9066c4d0b98407ca292cf40513efe4/Death-Star) |
-| 17.     | Piggy Bank - [3D Warehouse](https://3dwarehouse.sketchup.com/model/c3281ec2d23523e1c40386bdd72f9a0/Piggy-Bank) |
-| 18.     | Desk - Made by Omar A. |
-| 19.     | Bird Cage - Made by Omar A. |
-| 20.     | Paperclip - Made by Omar A. |
-| 21.     | Pencil - Made by Omar A. |
-| 22.     | Sword - Made by Omar A. |
-| 23.     | Shield - Made by Omar A. |
-
-| 29.     | Cardinal - [Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/animals/living-birds-15649) |
-| 30.     | Lego Brick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/89f94cd3ac5fb5104ed3368aee642973/BRIQUE-4-X-2) |
-| 31.     | Gum Stick - [3D Warehouse](https://3dwarehouse.sketchup.com/model/a7d8fb085a8d91ce70b0ba4039b032ea/Gum) |
-
-| 33.     | Rat - [3D Warehouse](https://3dwarehouse.sketchup.com/model/u1c56b8a7-e927-419f-83b2-7b10d5b27b00/Rat) |
-| 34.     | Cheese - [3D Warehouse](https://3dwarehouse.sketchup.com/model/36a790c205b5affe591a9a5b6104ce0f/Cheese) |
-| 34.     | TV - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/electronics/wall-tvset-8468) |
-| 34.     | White Chair - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/furniture/chair-fp-01-26466) |
 
 ### Audio Used
 
