@@ -78,7 +78,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
 | 10.      | Basketballhoop - made by James T. |
-| 11.      | Umbrella - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 11.      | Umbrella - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 | 12.      | Sculpted Ghost - made by James T. |
 | 13.      | Portal Dice - [TurboSquid.com](https://www.turbosquid.com/3d-models/free-portal-2-cube-dice-3d-model/1116423) |
 | 14.      | Jojo Arrows - [SketchFab](https://sketchfab.com/3d-models/stand-arrow-jojos-bizarre-adventure-b53212fb380d40678dd15475f9dd57f7  )|
@@ -93,7 +93,12 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 19.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 19.      | Plant - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 20.      | Pot for Plant - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 21.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 22.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 23.      | Empty Shelf - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
+| 24.      | Office Chair - [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438) |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
