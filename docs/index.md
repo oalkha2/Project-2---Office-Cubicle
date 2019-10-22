@@ -115,13 +115,13 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 9.      | RAINBOW SIX SIEGE - Menu SoundTrack.mp3 | TV sound - [Youtube](https://www.youtube.com/watch?v=TWBseNLqmec) | 
 | 10.     | sword_slash.mp3 | Sword grab sound - [Zedge](https://www.zedge.net/ringtone/ab22fe02-3826-345a-80ad-dc22261a9127) | 
 | 11.     | this_is_snake.mp3 | Snake touch sound - [Zedge](https://www.zedge.net/ringtone/800bff58-5190-3fd5-9acc-0d795d54eb0d) | 
-| 12.     | Briefcase_idle 1.mp3 | made by James T. |
-| 13.     | Briefcase_Pickup.mp3 | made by James T. |
-| 14.     | Briefcase_Thanks.mp3 | made by James T. |
-| 15.     | Jojo_s_Bizarre_Adventure_OST_-_Awaken_Pillar_Men_Theme_.mp3 | [Arrows Local Sound](https://www.youtube.com/watch?v=XUhVCoTsBaM)
-| 16.     | modern-jazz-samba-by-kevin-macleod.mp3 | [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100153) |
-| 17.     | Who Likes to Party.mp3 | [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=usuan1200075) |
-| 18.     | Sculpture Sound.mp3 | made by James T. |
+| 12.     | Briefcase_Pickup.mp3 | Briefcase talking when picked up - made by James T. |
+| 13.     | Briefcase_idle 1.mp3 | Briefcase talking when held - made by James T. |
+| 14.     | Briefcase_Thanks.mp3 | Briefcase talking when let go - made by James T. |
+| 15.     | Jojo_s_Bizarre_Adventure_OST_-_Awaken_Pillar_Men_Theme_.mp3 | Arrows Local Sound - [Youtube](https://www.youtube.com/watch?v=XUhVCoTsBaM)
+| 16.     | modern-jazz-samba-by-kevin-macleod.mp3 | Boombox Music - [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100153) |
+| 17.     | Who Likes to Party.mp3 | Boombox Music - [incompetech.com](https://incompetech.com/music/royalty-free/index.html?isrc=usuan1200075) |
+| 18.     | Sculpture Sound.mp3 | Red Sculpture Sound - made by James T. |
 
 ## How effective this method is:
 **TODO 500 words**
