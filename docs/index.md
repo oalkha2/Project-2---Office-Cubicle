@@ -69,18 +69,10 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
-
-<p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%203.jpg" width="80%">
-</p>
-
-| Number  | Description & Link |
-| ------- | ----------------------------------------------------- |
 | 10.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%203.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -93,10 +85,10 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 15.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 25.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%201.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -104,7 +96,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 26.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%202.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -112,7 +104,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 42.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%203.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -120,7 +112,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 45.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubible%204.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -128,7 +120,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 48.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%205.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
@@ -136,12 +128,12 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 51.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/J%20Cubible%204.jpg" width="80%">
+  <img src="https://github.com/oalkha2/Project-2---Office-Cubicle/blob/master/docs/Outside.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 52.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 52.      | Giraffe - [SketchFab.com](https://sketchfab.com/3d-models/low-poly-giraffe-9043192c58994a9380d38b665790f8f5) |
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
