@@ -112,7 +112,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 45.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubible%204.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%204.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
