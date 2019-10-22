@@ -174,7 +174,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 51.      | Paperclip - Made by Omar A. |
 
 <p float="center">
-  <img src="https://github.com/oalkha2/Project-2---Office-Cubicle/blob/master/docs/Outside.jpg" width="80%">
+  <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/Outside.jpg" width="80%">
 </p>
 
 | Number  | Description & Link |
