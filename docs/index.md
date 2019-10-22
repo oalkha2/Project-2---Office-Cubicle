@@ -106,7 +106,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 | Number  | Description & Link |
 | ------- | ----------------------------------------------------- |
-| 25.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
+| 25.      | Disco - made by James T. |
 
 <p float="center">
   <img src="https://raw.githubusercontent.com/oalkha2/Project-2---Office-Cubicle/master/docs/O%20Cubicle%201.jpg" width="80%">
