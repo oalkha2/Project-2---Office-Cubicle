@@ -1,4 +1,6 @@
-https://drive.google.com/file/d/1We_JtjaK6lEj-Uq0-enWoWsZUT-6vfBs/view?usp=sharing
+Project Page: [https://oalkha2.github.io/Project-2---Office-Cubicle/](https://oalkha2.github.io/Project-2---Office-Cubicle/)
+
+Alternative Project Download: https://drive.google.com/file/d/1We_JtjaK6lEj-Uq0-enWoWsZUT-6vfBs/view?usp=sharing
 # Project2
 Starting point for Project 2, CS 428 Virtual and Augmented Reality, Fall 2019 at the Univesity of Illinois at Chicago,
 Written by Andy Johnson - ajohnson@uic.edu
